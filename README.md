@@ -1,6 +1,6 @@
 # `dicom_tools`
 A collection of Python utilities that are related to the processing of images
-in the [DICOM](https://www.dicomstandard.org/ Dicom Standard) format.
+in the [DICOM](https://www.dicomstandard.org/) format.
 
 I have a lot of these that I've created for research purposes, some of which
 have been distributed elsewhere, but I am beginning to collect the more
@@ -23,7 +23,7 @@ at your own risk!
 
 ## Coding Guidelines
 All Python code here is formatted with the
-[`black`](https://github.com/ambv/black black formatter) tool before committing.
+[`black`](https://github.com/ambv/black) tool before committing.
 
 
 ## MIT License
